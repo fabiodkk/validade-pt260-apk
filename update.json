@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
+  "latestVersionCode": 3,
+  "latestVersionName": "1.2",
   "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/latest/download/ValidadePt260.apk",
   "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/latest",
-  "notes": "Atualizacao com aba So Precos, repeticao 4/6 precos pequenos por etiqueta e atualizador automatico."
+  "notes": "Atualizacao visual: interface mais bonita, abas destacadas, campos arredondados, botoes principais em destaque e painel de status mais claro."
 }
