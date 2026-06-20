@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 5,
-  "latestVersionName": "1.4",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/latest/download/ValidadePt260.apk",
+  "latestVersionCode": 6,
+  "latestVersionName": "1.5",
+  "apkUrl": "https://raw.githubusercontent.com/fabiodkk/validade-pt260-apk/main/ValidadePt260.apk",
   "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/latest",
-  "notes": "Ajuste visual: topo mais limpo, sem titulo grande e sem icone lateral, mantendo apenas a frase pequena."
+  "notes": "Correcao do atualizador: download direto com progresso e abertura automatica do instalador quando terminar."
 }
