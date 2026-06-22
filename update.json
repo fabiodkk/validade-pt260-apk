@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 7,
-  "latestVersionName": "1.6-beta",
+  "latestVersionCode": 9,
+  "latestVersionName": "1.8",
   "apkUrl": "https://raw.githubusercontent.com/fabiodkk/validade-pt260-apk/main/ValidadePt260.apk",
   "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk",
-  "notes": "Beta com acesso escondido em Ajustes > Sobre o app. Toque e segure em Sobre o app, login beta e senha pt260 para liberar a aba Beta."
+  "notes": "Versao normal com Historico de impressoes e alerta de recolhimento para produtos com mais de 10 etiquetas vencendo no dia."
 }
