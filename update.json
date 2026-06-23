@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 11,
-  "latestVersionName": "1.10",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.10/ValidadePt260.apk",
+  "latestVersionCode": 12,
+  "latestVersionName": "1.11",
+  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.11/ValidadePt260.apk",
   "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk",
-  "notes": "Correção do OCR: exige data inicial e validade antes de registrar, avisa validade não detectada quando faltar dado, e notifica vencidos/vencendo hoje."
+  "notes": "Nova navegacao com Validade, Precos e Mais. Adiciona abas So texto e So imagem com pre-visualizacao e uso maximo da etiqueta."
 }
