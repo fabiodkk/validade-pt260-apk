@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 9,
-  "latestVersionName": "1.8",
-  "apkUrl": "https://raw.githubusercontent.com/fabiodkk/validade-pt260-apk/main/ValidadePt260.apk",
+  "latestVersionCode": 10,
+  "latestVersionName": "1.9",
+  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.9/ValidadePt260.apk",
   "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk",
-  "notes": "Versao normal com Historico de impressoes e alerta de recolhimento para produtos com mais de 10 etiquetas vencendo no dia."
+  "notes": "Versao normal com aba OCR liberada pela senha beta, avisos de recolhimento OCR, historico de impressoes e alerta de produtos vencendo hoje."
 }
