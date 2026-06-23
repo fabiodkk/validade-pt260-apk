@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 10,
-  "latestVersionName": "1.9",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.9/ValidadePt260.apk",
+  "latestVersionCode": 11,
+  "latestVersionName": "1.10",
+  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.10/ValidadePt260.apk",
   "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk",
-  "notes": "Versao normal com aba OCR liberada pela senha beta, avisos de recolhimento OCR, historico de impressoes e alerta de produtos vencendo hoje."
+  "notes": "Correção do OCR: exige data inicial e validade antes de registrar, avisa validade não detectada quando faltar dado, e notifica vencidos/vencendo hoje."
 }
