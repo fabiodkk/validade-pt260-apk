@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 13,
-  "latestVersionName": "1.12",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.12/ValidadePt260.apk",
+  "latestVersionCode": 14,
+  "latestVersionName": "1.13",
+  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.13/ValidadePt260.apk",
   "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk",
-  "notes": "Adiciona armazenamento Supabase para dispositivos, impressoes de validade e checagens OCR, com configuracao remota por supabase-config.json."
+  "notes": "Adiciona Painel nuvem dentro da area beta, com vencimentos proximos, aparelhos, ultimas impressoes e checagens OCR vindas do Supabase."
 }
