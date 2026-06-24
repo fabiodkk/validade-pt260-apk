@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 12,
-  "latestVersionName": "1.11",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.11/ValidadePt260.apk",
+  "latestVersionCode": 13,
+  "latestVersionName": "1.12",
+  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.12/ValidadePt260.apk",
   "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk",
-  "notes": "Nova navegacao com Validade, Precos e Mais. Adiciona abas So texto e So imagem com pre-visualizacao e uso maximo da etiqueta."
+  "notes": "Adiciona armazenamento Supabase para dispositivos, impressoes de validade e checagens OCR, com configuracao remota por supabase-config.json."
 }
