@@ -1,4 +1,4 @@
-﻿{
+{
   "version": 2,
   "rules": [
     {
@@ -122,7 +122,7 @@
       "startLabel": "Pronto"
     },
     {
-      "match": "quiche de br\u00F3colis br\u00F3colis com bacon",
+      "match": "quiche de brócolis brócolis com bacon",
       "validityDays": 3,
       "startLabel": "Fab"
     },
@@ -147,7 +147,7 @@
       "startLabel": "Fab"
     },
     {
-      "match": "MACARR\u00C3O TALHARIM",
+      "match": "MACARRÃO TALHARIM",
       "validityDays": 4,
       "startLabel": "Fab"
     },
@@ -162,7 +162,7 @@
       "startLabel": "Fab"
     },
     {
-      "match": "CHORIZO CABAN\u00E3S",
+      "match": "CHORIZO CABANãS",
       "validityDays": 90,
       "startLabel": "Fab"
     },
@@ -185,6 +185,11 @@
       "match": "yakissoba",
       "validityDays": 90,
       "startLabel": "Fab"
+    },
+    {
+      "match": "azeite",
+      "validityDays": 90,
+      "startLabel": "Aberto"
     },
     {
       "match": "*",
@@ -225,7 +230,7 @@
     "Enroladinho de salsicha",
     "Pastel assado",
     "Pimenta apos aberta",
-    "Azeite aberto",
+    "Azeite apos aberto",
     "Mousse morango",
     "Mousse goiaba",
     "Pudim",
@@ -236,7 +241,7 @@
     "Mousse abacaxi",
     "Mousse amora",
     "Mousse limao",
-    "Abacaxi/coco",
+    "Mousse abacaxi/coco",
     "Mousse chocolate/creme",
     "Torta maracuja",
     "Pave argentina",
@@ -302,15 +307,15 @@
     "Recheio de pastel palmito",
     "Recheio de pastel calabresa",
     "Recheio de pastel pizza",
-    "quiche de br\u00F3colis br\u00F3colis com bacon",
+    "quiche de brócolis brócolis com bacon",
     "alho triturado",
     "alho IZABEL",
     "Bolo chocolate",
     "ARROZ DE POLVO",
-    "MACARR\u00C3O TALHARIM",
+    "MACARRÃO TALHARIM",
     "mussarela fatiada 50 und",
     "CARNE YAKISOBA",
-    "CHORIZO CABAN\u00E3S",
+    "CHORIZO CABANãS",
     "Frango strogonoff",
     "Frango Yakissoba",
     "SALMAO",
@@ -349,7 +354,7 @@
       "Esfiha",
       "Enroladinho de salsicha",
       "Pastel assado",
-      "quiche de br\u00F3colis br\u00F3colis com bacon"
+      "quiche de brócolis brócolis com bacon"
     ],
     "Confeitaria": [
       "Mousse morango",
@@ -362,7 +367,7 @@
       "Mousse abacaxi",
       "Mousse amora",
       "Mousse limao",
-      "Abacaxi/coco",
+      "Mousse abacaxi/coco",
       "Mousse chocolate/creme",
       "Torta maracuja",
       "Pave argentina",
@@ -435,14 +440,14 @@
       "alho triturado",
       "alho IZABEL",
       "ARROZ DE POLVO",
-      "MACARR\u00C3O TALHARIM",
+      "MACARRÃO TALHARIM",
       "mussarela fatiada 50 und",
       "CARNE YAKISOBA",
-      "CHORIZO CABAN\u00E3S"
+      "CHORIZO CABANãS"
     ],
-    "Sal\u00E3o": [
+    "Salão": [
       "Pimenta apos aberta",
-      "Azeite aberto"
+      "Azeite apos aberto"
     ]
   }
 }
