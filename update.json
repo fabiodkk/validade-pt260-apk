@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 14,
-  "latestVersionName": "1.13",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.13/ValidadePt260.apk",
+  "latestVersionCode": 15,
+  "latestVersionName": "1.14",
+  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.14/ValidadePt260.apk",
   "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk",
-  "notes": "Adiciona Painel nuvem dentro da area beta, com vencimentos proximos, aparelhos, ultimas impressoes e checagens OCR vindas do Supabase."
+  "notes": "Organiza produtos por Roticeria, Confeitaria, Cozinha e Salao; mantem validade editavel antes da impressao; e reenvia relatorios pendentes ao Supabase sem duplicar."
 }

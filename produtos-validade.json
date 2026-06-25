@@ -1,0 +1,448 @@
+﻿{
+  "version": 2,
+  "rules": [
+    {
+      "match": "pimenta",
+      "validityDays": 90,
+      "startLabel": "Aberto"
+    },
+    {
+      "match": "mousse pudim",
+      "validityDays": 5,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "pudim",
+      "validityDays": 7,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "congelad",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "quiche",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "recheio de pastel",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "bife ancho",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "mandioca",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "berinjela",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "carne de yakssoba",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "file mignon",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "pizza",
+      "validityHours": 6,
+      "startLabel": "Forno"
+    },
+    {
+      "match": "salgado",
+      "validityHours": 6,
+      "startLabel": "Pronto"
+    },
+    {
+      "match": "coxinha",
+      "validityHours": 6,
+      "startLabel": "Pronto"
+    },
+    {
+      "match": "bolinho",
+      "validityHours": 6,
+      "startLabel": "Pronto"
+    },
+    {
+      "match": "bolinha",
+      "validityHours": 6,
+      "startLabel": "Pronto"
+    },
+    {
+      "match": "kibe",
+      "validityHours": 6,
+      "startLabel": "Pronto"
+    },
+    {
+      "match": "quibe",
+      "validityHours": 6,
+      "startLabel": "Pronto"
+    },
+    {
+      "match": "risole",
+      "validityHours": 6,
+      "startLabel": "Pronto"
+    },
+    {
+      "match": "empada",
+      "validityHours": 6,
+      "startLabel": "Pronto"
+    },
+    {
+      "match": "esfiha",
+      "validityHours": 6,
+      "startLabel": "Pronto"
+    },
+    {
+      "match": "enroladinho",
+      "validityHours": 6,
+      "startLabel": "Pronto"
+    },
+    {
+      "match": "pastel",
+      "validityHours": 6,
+      "startLabel": "Pronto"
+    },
+    {
+      "match": "croquete",
+      "validityHours": 6,
+      "startLabel": "Pronto"
+    },
+    {
+      "match": "quiche de br\u00F3colis br\u00F3colis com bacon",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "alho IZABEL",
+      "validityDays": 6,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "alho triturado",
+      "validityDays": 6,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "Bolo chocolate",
+      "validityDays": 5,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "ARROZ DE POLVO",
+      "validityDays": 4,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "MACARR\u00C3O TALHARIM",
+      "validityDays": 4,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "mussarela fatiada 50 und",
+      "validityDays": 6,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "CARNE YAKISOBA",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "CHORIZO CABAN\u00E3S",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "Frango strogonoff",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "Frango Yakissoba",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "SALMAO",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "yakissoba",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "*",
+      "validityDays": 5,
+      "startLabel": "Fab"
+    }
+  ],
+  "products": [
+    "Fatia de pizza estufa 70C",
+    "Pizza mussarela fatia",
+    "Pizza calabresa fatia",
+    "Pizza frango catupiry fatia",
+    "Salgados estufa 70C",
+    "Salgados congelados",
+    "Fatia de pizza congelada",
+    "Coxinha congelada",
+    "Bolinho de carne congelado",
+    "Kibe congelado",
+    "Quibe congelado",
+    "Bolinha de queijo congelada",
+    "Risole congelado",
+    "Croquete congelado",
+    "Empada congelada",
+    "Esfiha congelada",
+    "Enroladinho de salsicha congelado",
+    "Quiche congelada",
+    "Quiche de brocolis com bacon",
+    "Coxinha",
+    "Bolinho de carne",
+    "Kibe",
+    "Quibe",
+    "Bolinho de pernil",
+    "Bolinha de queijo",
+    "Risole",
+    "Croquete",
+    "Empada",
+    "Esfiha",
+    "Enroladinho de salsicha",
+    "Pastel assado",
+    "Pimenta apos aberta",
+    "Azeite aberto",
+    "Mousse morango",
+    "Mousse goiaba",
+    "Pudim",
+    "Mousse ninho",
+    "Creme de leite / ninho",
+    "Gelatina mosaica",
+    "Creme de abacaxi",
+    "Mousse abacaxi",
+    "Mousse amora",
+    "Mousse limao",
+    "Abacaxi/coco",
+    "Mousse chocolate/creme",
+    "Torta maracuja",
+    "Pave argentina",
+    "Bolo",
+    "Brigadeiro",
+    "Mousse coco",
+    "Doce de leite",
+    "Chocolate c/ ninho",
+    "Mousse maracuja",
+    "Mousse abacaxi c/ coco",
+    "Mousse pudim",
+    "Mousse chocolate",
+    "Mousse manga",
+    "Mousse uva",
+    "Mousse pessego",
+    "Mousse cupuacu",
+    "Mousse acai",
+    "Mousse leite ninho",
+    "Mousse ninho c/ morango",
+    "Mousse nutella",
+    "Mousse oreo",
+    "Mousse doce de leite",
+    "Mousse pacoca",
+    "Mousse brigadeiro",
+    "Mousse beijinho",
+    "Mousse leite condensado",
+    "Mousse ameixa",
+    "Mousse goiabada",
+    "Mousse banana",
+    "Mousse banana c/ canela",
+    "Mousse kiwi",
+    "Mousse frutas vermelhas",
+    "Mousse cereja",
+    "Mousse framboesa",
+    "Mousse mirtilo",
+    "Mousse tangerina",
+    "Mousse laranja",
+    "Mousse melancia",
+    "Mousse melao",
+    "Mousse cafe",
+    "Mousse capuccino",
+    "Mousse caramelo",
+    "Mousse chocolate branco",
+    "Mousse choc. meio amargo",
+    "Mousse alpino",
+    "Mousse sonho de valsa",
+    "Mousse ouro branco",
+    "Mousse ovomaltine",
+    "Mousse churros",
+    "Mousse coco queimado",
+    "Mousse tapioca",
+    "Mousse baunilha",
+    "Mousse pistache",
+    "Mousse amendoim",
+    "Bife ancho",
+    "Mandioca",
+    "Berinjela",
+    "Carne de yakssoba",
+    "File mignon",
+    "Recheio de pastel carne",
+    "Recheio de pastel frango",
+    "Recheio de pastel camarao",
+    "Recheio de pastel palmito",
+    "Recheio de pastel calabresa",
+    "Recheio de pastel pizza",
+    "quiche de br\u00F3colis br\u00F3colis com bacon",
+    "alho triturado",
+    "alho IZABEL",
+    "Bolo chocolate",
+    "ARROZ DE POLVO",
+    "MACARR\u00C3O TALHARIM",
+    "mussarela fatiada 50 und",
+    "CARNE YAKISOBA",
+    "CHORIZO CABAN\u00E3S",
+    "Frango strogonoff",
+    "Frango Yakissoba",
+    "SALMAO",
+    "yakissoba"
+  ],
+  "categories": {
+    "Roticeria": [
+      "Fatia de pizza estufa 70C",
+      "Pizza mussarela fatia",
+      "Pizza calabresa fatia",
+      "Pizza frango catupiry fatia",
+      "Salgados estufa 70C",
+      "Salgados congelados",
+      "Fatia de pizza congelada",
+      "Coxinha congelada",
+      "Bolinho de carne congelado",
+      "Kibe congelado",
+      "Quibe congelado",
+      "Bolinha de queijo congelada",
+      "Risole congelado",
+      "Croquete congelado",
+      "Empada congelada",
+      "Esfiha congelada",
+      "Enroladinho de salsicha congelado",
+      "Quiche congelada",
+      "Quiche de brocolis com bacon",
+      "Coxinha",
+      "Bolinho de carne",
+      "Kibe",
+      "Quibe",
+      "Bolinho de pernil",
+      "Bolinha de queijo",
+      "Risole",
+      "Croquete",
+      "Empada",
+      "Esfiha",
+      "Enroladinho de salsicha",
+      "Pastel assado",
+      "quiche de br\u00F3colis br\u00F3colis com bacon"
+    ],
+    "Confeitaria": [
+      "Mousse morango",
+      "Mousse goiaba",
+      "Pudim",
+      "Mousse ninho",
+      "Creme de leite / ninho",
+      "Gelatina mosaica",
+      "Creme de abacaxi",
+      "Mousse abacaxi",
+      "Mousse amora",
+      "Mousse limao",
+      "Abacaxi/coco",
+      "Mousse chocolate/creme",
+      "Torta maracuja",
+      "Pave argentina",
+      "Bolo",
+      "Brigadeiro",
+      "Mousse coco",
+      "Doce de leite",
+      "Chocolate c/ ninho",
+      "Mousse maracuja",
+      "Mousse abacaxi c/ coco",
+      "Mousse pudim",
+      "Mousse chocolate",
+      "Mousse manga",
+      "Mousse uva",
+      "Mousse pessego",
+      "Mousse cupuacu",
+      "Mousse acai",
+      "Mousse leite ninho",
+      "Mousse ninho c/ morango",
+      "Mousse nutella",
+      "Mousse oreo",
+      "Mousse doce de leite",
+      "Mousse pacoca",
+      "Mousse brigadeiro",
+      "Mousse beijinho",
+      "Mousse leite condensado",
+      "Mousse ameixa",
+      "Mousse goiabada",
+      "Mousse banana",
+      "Mousse banana c/ canela",
+      "Mousse kiwi",
+      "Mousse frutas vermelhas",
+      "Mousse cereja",
+      "Mousse framboesa",
+      "Mousse mirtilo",
+      "Mousse tangerina",
+      "Mousse laranja",
+      "Mousse melacia",
+      "Mousse melancia",
+      "Mousse melao",
+      "Mousse cafe",
+      "Mousse capuccino",
+      "Mousse caramelo",
+      "Mousse chocolate branco",
+      "Mousse choc. meio amargo",
+      "Mousse alpino",
+      "Mousse sonho de valsa",
+      "Mousse ouro branco",
+      "Mousse ovomaltine",
+      "Mousse churros",
+      "Mousse coco queimado",
+      "Mousse tapioca",
+      "Mousse baunilha",
+      "Mousse pistache",
+      "Mousse amendoim",
+      "Bolo chocolate"
+    ],
+    "Cozinha": [
+      "Bife ancho",
+      "Mandioca",
+      "Berinjela",
+      "Carne de yakssoba",
+      "File mignon",
+      "Recheio de pastel carne",
+      "Recheio de pastel frango",
+      "Recheio de pastel camarao",
+      "Recheio de pastel palmito",
+      "Recheio de pastel calabresa",
+      "Recheio de pastel pizza",
+      "alho triturado",
+      "alho IZABEL",
+      "ARROZ DE POLVO",
+      "MACARR\u00C3O TALHARIM",
+      "mussarela fatiada 50 und",
+      "CARNE YAKISOBA",
+      "CHORIZO CABAN\u00E3S"
+    ],
+    "Sal\u00E3o": [
+      "Pimenta apos aberta",
+      "Azeite aberto"
+    ]
+  }
+}
