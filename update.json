@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 15,
-  "latestVersionName": "1.14",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.14/ValidadePt260.apk",
+  "latestVersionCode": 16,
+  "latestVersionName": "1.15",
+  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.15/ValidadePt260.apk",
   "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk",
-  "notes": "Organiza produtos por Roticeria, Confeitaria, Cozinha e Salao; mantem validade editavel antes da impressao; e reenvia relatorios pendentes ao Supabase sem duplicar."
+  "notes": "Atualiza o catalogo da nuvem automaticamente a cada 1 hora com internet, avisa por notificacao quando entra produto novo com categoria, e permite revisar/realocar produtos por categoria."
 }

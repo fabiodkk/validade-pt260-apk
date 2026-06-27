@@ -1,4 +1,4 @@
-{
+﻿{
   "version": 2,
   "rules": [
     {
@@ -122,7 +122,7 @@
       "startLabel": "Pronto"
     },
     {
-      "match": "quiche de brócolis brócolis com bacon",
+      "match": "quiche de br\u00F3colis br\u00F3colis com bacon",
       "validityDays": 3,
       "startLabel": "Fab"
     },
@@ -147,7 +147,7 @@
       "startLabel": "Fab"
     },
     {
-      "match": "MACARRÃO TALHARIM",
+      "match": "MACARR\u00C3O TALHARIM",
       "validityDays": 4,
       "startLabel": "Fab"
     },
@@ -162,7 +162,7 @@
       "startLabel": "Fab"
     },
     {
-      "match": "CHORIZO CABANãS",
+      "match": "CHORIZO CABAN\u00E3S",
       "validityDays": 90,
       "startLabel": "Fab"
     },
@@ -190,6 +190,81 @@
       "match": "azeite",
       "validityDays": 90,
       "startLabel": "Aberto"
+    },
+    {
+      "match": "Bacon",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "Torta Limao",
+      "validityDays": 5,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "RABO DE PORCO",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "calabresa",
+      "validityDays": 90,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "Calda maracuj\u00E1",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "feijao",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "frango",
+      "validityDays": 30,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "molho camarao",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "molho maracuja",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "molho tomate",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "ORELHA DE PORCO",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "PE DE PORCO",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "pirao",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "pur\u00EA abobora",
+      "validityDays": 3,
+      "startLabel": "Fab"
+    },
+    {
+      "match": "pur\u00EA batata",
+      "validityDays": 3,
+      "startLabel": "Fab"
     },
     {
       "match": "*",
@@ -307,19 +382,34 @@
     "Recheio de pastel palmito",
     "Recheio de pastel calabresa",
     "Recheio de pastel pizza",
-    "quiche de brócolis brócolis com bacon",
+    "quiche de br\u00F3colis br\u00F3colis com bacon",
     "alho triturado",
     "alho IZABEL",
     "Bolo chocolate",
     "ARROZ DE POLVO",
-    "MACARRÃO TALHARIM",
+    "MACARR\u00C3O TALHARIM",
     "mussarela fatiada 50 und",
     "CARNE YAKISOBA",
-    "CHORIZO CABANãS",
+    "CHORIZO CABAN\u00E3S",
     "Frango strogonoff",
     "Frango Yakissoba",
     "SALMAO",
-    "yakissoba"
+    "yakissoba",
+    "Bacon",
+    "Torta Limao",
+    "RABO DE PORCO",
+    "calabresa",
+    "Calda maracuj\u00E1",
+    "feijao",
+    "frango",
+    "molho camarao",
+    "molho maracuja",
+    "molho tomate",
+    "ORELHA DE PORCO",
+    "PE DE PORCO",
+    "pirao",
+    "pur\u00EA abobora",
+    "pur\u00EA batata"
   ],
   "categories": {
     "Roticeria": [
@@ -354,7 +444,7 @@
       "Esfiha",
       "Enroladinho de salsicha",
       "Pastel assado",
-      "quiche de brócolis brócolis com bacon"
+      "quiche de br\u00F3colis br\u00F3colis com bacon"
     ],
     "Confeitaria": [
       "Mousse morango",
@@ -440,12 +530,12 @@
       "alho triturado",
       "alho IZABEL",
       "ARROZ DE POLVO",
-      "MACARRÃO TALHARIM",
+      "MACARR\u00C3O TALHARIM",
       "mussarela fatiada 50 und",
       "CARNE YAKISOBA",
-      "CHORIZO CABANãS"
+      "CHORIZO CABAN\u00E3S"
     ],
-    "Salão": [
+    "Sal\u00E3o": [
       "Pimenta apos aberta",
       "Azeite apos aberto"
     ]
