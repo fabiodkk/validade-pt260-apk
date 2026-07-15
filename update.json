@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 17,
-  "latestVersionName": "1.16",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.16/ValidadePt260.apk",
+  "latestVersionCode": 19,
+  "latestVersionName": "1.8",
+  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.8/ValidadePt260.apk",
   "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk",
-  "notes": "Adiciona preferencia de impressora com NIIMBOT B1, reconhece nomes B1-I105031967/B1-I105031976 e inclui backup/restauracao das preferencias de impressao apos falhas repetidas."
+  "notes": "Atualizacao 1.8 com aba Foto 50x30, layout da aba Mais refinado e melhorias no envio Bluetooth para impressao mais rapida."
 }
