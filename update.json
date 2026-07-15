@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 19,
-  "latestVersionName": "1.8",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.8/ValidadePt260.apk",
+  "latestVersionCode": 20,
+  "latestVersionName": "1.9",
+  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.9/ValidadePt260.apk",
   "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk",
-  "notes": "Atualizacao 1.8 com aba Foto 50x30, layout da aba Mais refinado e melhorias no envio Bluetooth para impressao mais rapida."
+  "notes": "Atualizacao 1.9 com a versao final da aba Foto 50x30, refinamentos da aba Mais e correcoes de instalacao/atualizacao para dispositivos."
 }
