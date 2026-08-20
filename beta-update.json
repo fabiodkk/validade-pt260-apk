@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 10,
-  "latestVersionName": "1.9-beta",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.9-beta/ValidadePt260-beta.apk",
-  "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk",
-  "notes": "Beta com aba OCR em Ajustes > Sobre o app. Toque e segure em Sobre o app, login beta e senha pt260 para liberar a aba Beta. O OCR registra em Avisos os produtos vencidos ou vencendo hoje."
+  "latestVersionCode": 27,
+  "latestVersionName": "1.13-peixaria",
+  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.13-peixaria/app-debug.apk",
+  "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/tag/v1.13-peixaria",
+  "notes": "Adiciona aba Peixaria (rastreabilidade), reserva de lote ao imprimir, reimpressao via admin e suporte .env. Testar impressao Bluetooth antes do deploy em producao."
 }
