@@ -1,7 +1,0 @@
-{
-  "latestVersionCode": 27,
-  "latestVersionName": "1.13-peixaria",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.13-peixaria/app-debug.apk",
-  "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/tag/v1.13-peixaria",
-  "notes": "Atualização Peixaria: reserva de lote ao imprimir, reimpressao via admin e suporte .env. Testar impressao Bluetooth antes do deploy em producao."
-}
