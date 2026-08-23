@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 31,
-  "latestVersionName": "1.21",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.21/app-release.apk",
-  "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/tag/v1.21",
-  "notes": "Atualizacao 1.21: suporte a catalogo de rastreabilidade (Peixaria), edicao de produtos e melhorias no painel."
+  "latestVersionCode": 38,
+  "latestVersionName": "1.21.5",
+  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.21.5/app-release.apk",
+  "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/tag/v1.21.5",
+  "notes": "Atualizacao 1.21.5: campos manuais opcionais na Peixaria e validacao de produto, peso e copias."
 }
