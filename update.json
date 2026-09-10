@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 38,
-  "latestVersionName": "1.21.5",
-  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.21.5/app-release.apk",
-  "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/tag/v1.21.5",
-  "notes": "Atualizacao 1.21.5: campos manuais opcionais na Peixaria e validacao de produto, peso e copias."
+  "latestVersionCode": 39,
+  "latestVersionName": "1.22.0",
+  "apkUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/download/v1.22.0/app-release.apk",
+  "releasePageUrl": "https://github.com/fabiodkk/validade-pt260-apk/releases/tag/v1.22.0",
+  "notes": "Integração O Peixeiro: QR de lote por token opaco, consulta on-line e quantidades por kg, caixa, pacote, peça ou unidade."
 }
